@@ -22,6 +22,7 @@
 	$  node index.js
   
 ### Output
+```
 [  
    {  
       "name":"Red Lamp",
@@ -37,9 +38,11 @@
    }
    
 ]
-
+```
 ## Anything changes in the lights state show in below format.
+```
  {  
    "id":"1",
    "on":false
 }
+```
