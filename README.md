@@ -35,6 +35,7 @@
       "on":false,
       "brightness":100
    }
+   
 ]
 
 ## Anything changes in the lights state show in below format.
