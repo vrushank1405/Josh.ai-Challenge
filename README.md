@@ -1,13 +1,11 @@
-# Philips_hue_api : node.js - [ express, axios ]
-
-[philips API](https://github.com/i1992/Philips_hue_api)is just demo for how you can handle GET, POST
+# Josh.ai Challenge 
 
 # Quickstart
 
 ### Install
  Following command will install all the required dependecies
  	
-   	 $ npm install -S express axios
+   	 $ npm install 
 	 
 ### Back-end
  I use the simulator for update the data. You have to change your api regarding your username and bridgeIP.
@@ -39,7 +37,7 @@
    }
 ]
 
-## Anything changes in the lights state, we will print as below format.
+## Anything changes in the lights state show in below format.
 $ {  
    "id":"1",
    "on":false
